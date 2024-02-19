@@ -1,0 +1,42 @@
+export const data = [
+    {
+      ques:"This",
+      option1: "These",
+      option2: "This",
+      option3: "Dis",
+      option4: "Dhis",
+      ans: 2,
+    },
+    {
+      ques: "Happy",
+      option1: "Hoopy",
+      option2: "Hippy",
+      option3: "Happy",
+      option4: "Hapyy",
+      ans: 3,
+    },
+    {
+      ques: "Water",
+      option1: "Water",
+      option2: "wator",
+      option3: "watar",
+      option4: "weter",
+      ans: 1,
+    },
+    {
+      ques: "Space",
+      option1: "Spaec",
+      option2: "Sapce",
+      option3: "Spage",
+      option4: "Space",
+      ans: 4,
+    },
+    {
+      ques: "Laugh",
+      option1: "Lagh",
+      option2: "Laugh",
+      option3: "Laaf",
+      option4: "Luahg",
+      ans: 2,
+    },
+  ];
